@@ -1,4 +1,11 @@
+
 # 🚨 Credit Card Default Prediction using Logistic Regression
+
+## 🚀 Live Demo
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/)
+
+Access the deployed application here: [Streamlit App](https://credit-card-default-prediction-using-logistic-regression-skw6g.streamlit.app/)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
