@@ -212,7 +212,7 @@ cd Job-Offer-Prediction-using-Logistic-Regression
 
 2. **Run the Jupyter Notebook:**
 ```bash
-jupyter notebook "Credit Card Default Prediction.ipynb"
+jupyter notebook "credit_card_default_prediction.ipynb"
 ```
 
 3. **Load the trained model:**
@@ -229,8 +229,8 @@ features = joblib.load('features_used.pkl')
 
 ```
 📦 Credit-Card-Default-Prediction/
-├── 📓 Credit Card Default Prediction.ipynb  # Main analysis notebook
-├── 📊 UCI_Credit_Card.csv                   # Dataset
+├── 📓 credit_card_default_prediction.ipynb  # Main analysis notebook
+├── 📊 uci_credit_card.csv                   # Dataset
 ├── 📋 README.md                             # Project documentation
 ├── 🖼️ images/                               # Generated visualizations
 │   ├── target_distribution.png

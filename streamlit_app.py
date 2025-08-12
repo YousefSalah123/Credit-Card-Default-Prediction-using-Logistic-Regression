@@ -20,7 +20,7 @@ menu = st.sidebar.radio("Navigate", [
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:\\Users\\kh\\Graduation PJ\\UCI_Credit_Card.csv")
+    return pd.read_csv("uci_credit_card.csv")
 
 
 df = load_data()
