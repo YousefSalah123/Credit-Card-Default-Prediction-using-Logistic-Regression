@@ -295,14 +295,18 @@ features = joblib.load('features_used.pkl')
 
 ## 👨‍💻 Authors
 **Yousef Salah Nage**  
-AI & Machine Learning Enthusiast  
-LinkedIn: https://www.linkedin.com/in/yousef-salah-nage-a3583636b  
-GitHub: https://github.com/YousefSalah123  
+Computer science department, faculty of Science Cairo University  
+<a href="https://www.linkedin.com/in/yousef-salah-nage-a3583636b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/YousefSalah123" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/></a>
+
+📧 Email: <a href="mailto:yousefsalahnage@gmail.com">yousefsalahnage@gmail.com</a>
 
 **Mahmoud Afifi**  
-Data Science & Machine Learning  
-LinkedIn: https://www.linkedin.com/in/mahmoudhossamws/  
-GitHub: https://github.com/mahmoudhossamws
+Computer Engineering, The American University in Cairo 
+<a href="https://www.linkedin.com/in/mahmoudhossamws/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/mahmoudhossamws" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/></a>
+
+📧 Email: <a href="mailto:mahmoudhossam@aucegypt.edu">mahmoudhossam@aucegypt.edu</a>
 
 ---
 
