@@ -232,32 +232,6 @@ features = joblib.load('features_used.pkl')
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 Credit-Card-Default-Prediction/
-├── 📓 credit_card_default_prediction.ipynb  # Main analysis notebook
-├── 📊 uci_credit_card.csv                   # Dataset
-├── 📋 README.md                             # Project documentation
-├── 🖼️ images/                               # Generated visualizations
-│   ├── target_distribution.png
-│   ├── demographics.png
-│   ├── age_distribution.png
-│   ├── credit_limit_distribution.png
-│   ├── payment_status_distribution.png
-│   ├── correlation_matrix.png
-│   ├── model_performance.png
-│   ├── performance_table.png
-│   ├── roc_curve.png
-│   └── threshold_analysis.png
-└── 💾 Models/                               # Saved models (generated)
-    ├── credit_default_model.pkl
-    ├── scaler.pkl
-    └── features_used.pkl
-```
-
----
-
 ## 📈 Key Insights & Business Impact
 
 ### 🔍 Data Insights:
@@ -302,7 +276,8 @@ features = joblib.load('features_used.pkl')
 
 ## 👨‍💻 Authors
 **Yousef Salah Nage**  
-Computer science department, faculty of Science Cairo University  
+Department of Computer Science, Faculty of Science, Cairo University
+
 <a href="https://www.linkedin.com/in/yousef-salah-nage-a3583636b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/YousefSalah123" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/></a>
 
@@ -310,6 +285,7 @@ Computer science department, faculty of Science Cairo University
 
 **Mahmoud Afifi**  
 Computer Engineering, The American University in Cairo 
+
 <a href="https://www.linkedin.com/in/mahmoudhossamws/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/mahmoudhossamws" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/></a>
 
